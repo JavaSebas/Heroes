@@ -18,6 +18,10 @@ body{
     padding: 5px 0;
 }
 
+.info p{
+    padding-left: 15px;
+}
+
 .info span{
     margin-right: 10px;
     cursor: pointer;
